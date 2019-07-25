@@ -44,14 +44,14 @@ See <a href="https://github.com/s-rah/onionscan/wiki">the wiki</a> for guidance.
 
 ### Grab with go get
 
-`go get github.com/s-rah/onionscan`
+`go get github.com/gugronnier/onionscan`
 
 ### Compile/Run from git cloned source
 
 Once you have cloned the repository into somewhere that go can find it you can
-run `go install github.com/s-rah/onionscan` and then run the binary in `$GOPATH/bin/onionscan`.
+run `go install github.com/gugronnier/onionscan` and then run the binary in `$GOPATH/bin/onionscan`.
 
-Alternatively, you can just do `go run github.com/s-rah/onionscan.go` to run without compiling.
+Alternatively, you can just do `go run github.com/gugronnier/onionscan.go` to run without compiling.
 
 ## Quick Start
 
