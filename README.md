@@ -35,7 +35,7 @@ In order to install OnionScan you will need the following dependencies not
 provided by the core go standard library:
 
 * golang.org/x/net/proxy - For the Tor SOCKS Proxy connection.
-* golang.org/pkg/crypto - For PGP parsing
+* golang.org/x/crypto - For PGP parsing
 * golang.org/x/net/html - For HTML parsing
 * github.com/rwcarlsen/goexif - For EXIF data extraction.
 * github.com/HouzuoGuo/tiedot/db - For crawl database.
